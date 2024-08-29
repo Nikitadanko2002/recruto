@@ -30,3 +30,4 @@ prompt_toolkit==3.0.47
 pure_eval==0.2.3
 Pygments==2.18.0
 python-dateutil==2.9.0.post0
+whitenoise>=6.0
